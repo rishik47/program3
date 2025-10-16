@@ -2,7 +2,7 @@ pacakge com.example;
 
 public class HelloWorld{
   public static void main(string[] args) {
-    System.out.println("DevOps CI/C GitHub Actions !");
+    System.out.println("DevOps CI/CD GitHub Actions !");
   }
 }
 
