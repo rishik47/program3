@@ -5,11 +5,11 @@ on:
     branches: [ "main" ]
   
 jobs:
-git:
+ git:
      runs-on: ubuntu-latest
-   steps:
+     steps:
       - uses: actions/checkout@v4  
-  build:
+ build:
 
     runs-on: ubuntu-latest
 
